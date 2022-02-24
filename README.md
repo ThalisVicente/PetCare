@@ -21,3 +21,8 @@ tsc --init
 `npm install express mustache-express dotenv`
 `npm install --save-dev @types/express @types/mustache-express @types/node`
 `npm install -g nodemon typescript ts-node`
+
+****************** GitHub ******************************************************************
+git add .
+git commit -m "Commit description"
+git push
